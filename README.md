@@ -13,8 +13,7 @@ Flask starter app
 * Open command prompt and change directory to your select directory e.g. cd c:
 * Run mkvirtualenv venv
 * Run workon venv
-* Run `git clone` this repository `cd` into the project root.
-* Run `pip install flask` on command prompt
+* Run `git clone` this repository and `cd` into the project root.
 * Run `pip install -r requirements.txt` on command prompt
 * Run `set FLASK_APP=run.py` on command prompt
 * Run `flask run` on command prompt
