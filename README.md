@@ -1,5 +1,6 @@
 # Flask-App
 Flask starter app
+(Based on https://scotch.io/tutorials/getting-started-with-flask-a-python-microframework)
 
 **Technologies**
 * Python 3.6
