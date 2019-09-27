@@ -10,4 +10,4 @@ To use the command flask run like we did before, we would need to set the FLASK_
 from app import app
 
 if __name__ == '__main__':
-    app.run(port=5001)
+    app.run()
